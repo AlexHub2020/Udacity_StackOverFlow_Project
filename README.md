@@ -33,5 +33,5 @@ The data used can be found on the Stack Overflow Website underneath the followin
 **4. How To Interact With My Project**
 The main results of the analysis are described in the Jupyter Notebook file. 
 
-**5.Licensing, Authors, Acknowledgements**
+**5.Licensing, Authors, Acknowledgements**<br>
 Data is directly taken from StackOverflow (https://insights.stackoverflow.com/survey) and licensed under the ODbL license (https://opendatacommons.org/licenses/odbl/1-0/ | https://insights.stackoverflow.com/survey/2020#overview). 
