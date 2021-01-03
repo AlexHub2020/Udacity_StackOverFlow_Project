@@ -1,4 +1,4 @@
-![pexels-pixabay-159533.png](attachment:pexels-pixabay-159533.png)
+![alt text][head_pic]
 
 # HELP! My child **cannot** programm at the age of 5 - will it ever become a developer? 
 
@@ -24,7 +24,7 @@ Based on that data - what is the best age to start coding?
 
 ### Is 5 too early and 35 too late for the first lines of code to become a developer?
 
-![Abbildung1_AgeDistribution-2.png](attachment:Abbildung1_AgeDistribution-2.png)
+![alt text][abb1]
 
 Looking at the histogram we see that most of the survey participants started coding at the age **between 10 and 20 years** - these are nearly **90%**. A slightly higher part were 15 to 20 years. A **minority** started later with an age **over 25**.  
 
@@ -32,7 +32,7 @@ Looking at the histogram we see that most of the survey participants started cod
 
 ### Do my daughter should  start earlier coding than my son?
 
-![Abbildung_Gender_AgeDistribution-2.png](attachment:Abbildung_Gender_AgeDistribution-2.png)
+![alt text][abb2]
 
 With regard to the starting age the **distribution by gender** is **similar** to the overall distribution. All gender groups **start mainly** between **10 and 20 years**. A little more people of the non-binary-gender-group start earlier by 10 to 15 years. 
 
@@ -45,7 +45,7 @@ There is **no need** that your **daughter starts earlier** with programming code
 
 ### When should my child start programming to study in a IT relevant field?
 
-![Abbildung1_Studies_AgeDistribution-2.png](attachment:Abbildung1_Studies_AgeDistribution-2.png)
+![alt text][abb3]
 
 Based on the several fields of study we can observe that developers with a primary **non-IT-field study** like Health Science or Business Discplines **start earlier** coding at an age of **5 to 10** but there is also a **higher number of people who start later.** 
 
@@ -70,3 +70,10 @@ Let your 5-year-old child play with other toys and wait until middle school to s
 
 **Licences:**
 - Picture of blog post is taken from pexels and is licensed under the Creative Commons Zero (CC0) license (https://www.pexels.com/photo/boy-wearing-blue-t-shirt-using-black-laptop-computer-in-a-dim-lighted-scenario-159533/ | https://www.pexels.com/creative-commons-images/).
+
+
+[abb1]: https://github.com/AlexHub2020/Udacity_StackOverFlow_Project/blob/main/Abbildung1_AgeDistribution.png "Histogram 1st-Code-Age Distribution"
+[abb2]: https://github.com/AlexHub2020/Udacity_StackOverFlow_Project/blob/main/Abbildung_Gender_AgeDistribution.png "Histogram 1st-Code-Age / Gender Distribution"
+[abb3]: https://github.com/AlexHub2020/Udacity_StackOverFlow_Project/blob/main/Abbildung1_Studies_AgeDistribution.png "Histogram 1st-Code-Age / Studies Distribution"
+[head_pic]: https://github.com/AlexHub2020/Udacity_StackOverFlow_Project/blob/main/pexels-pixabay-159533.png "Baby on Computer"
+
