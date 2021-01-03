@@ -1,0 +1,14 @@
+Sources, References and Used Links within the project / Jupyter Notebook: 
+
+https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html
+https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn.scatterplot
+https://seaborn.pydata.org/generated/seaborn.FacetGrid.html#seaborn.FacetGrid
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html
+https://stackoverflow.com/questions/31632372/customizing-annotation-with-seaborns-facetgrid
+https://seaborn.pydata.org/api.html
+https://matplotlib.org/3.3.3/tutorials/intermediate/legend_guide.html#sphx-glr-tutorials-intermediate-legend-guide-py
+https://stackoverflow.com/questions/31594549/how-do-i-change-the-figure-size-for-a-seaborn-plot
+https://matplotlib.org/3.3.3/api/_as_gen/matplotlib.pyplot.legend.html#matplotlib.pyplot.legend
+https://stackoverflow.com/questions/29813694/how-to-add-a-title-to-seaborn-facet-plot
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html
