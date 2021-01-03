@@ -27,7 +27,7 @@ The data used can be found on the Stack Overflow Website underneath the followin
 **Project Files within this repository:**
 - ipynb-file - "Udacity_Project_StackOverFlowAnalysis": Jupyter Notebook file containing the analysis and the commented code used for the analysis as well as the results and observations including plots and diagrams. 
 - html-file - "Udacity_Project_StackOverFlowAnalysis": Respective HTML-file of the Jupyter Notebook with all results and plots of the analysis. 
-- html-file - "Udacity_Project_StackOverFlowAnalysis_BlogPost": A blog post about the analysis of the data as a html-file. 
+- md-file - "Udacity_Project_StackOverFlowAnalysis_BlogPost": A blog post about the analysis of the data as a md-file. 
 - text file - "UsedLinks_References_Sources": URL-Links and References used to look up and help with regard to programming issues. Also used API-Documentation is referenced. 
 
 **4. How To Interact With My Project**<br>
